@@ -1,0 +1,5 @@
+print("Hi welcome to Python class")
+print(6)
+print("Hi I am Saisha, I am ",10)
+print("I want to go out at \n",12)
+print('Welcome to ', end= ".")
