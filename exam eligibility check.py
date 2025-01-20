@@ -1,6 +1,6 @@
 medical_cause = input("Did you have a medical cause Y or N:")
 atten = int(input("Enter the attendance of the student: "))
-if medical_cause == 'Y':
+if medical_cause == "Y":
     print("You are eligible for the exam")
 else:
     if atten >= 75:
